@@ -387,10 +387,6 @@ ul li a {
 
 }
 
-.titel-content{
-
-    
-}
 .titel-content h1{
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
@@ -411,6 +407,7 @@ ul li a {
     letter-spacing: 0%;
     text-align: center; 
     opacity: 0.7;
+    margin-top: 10px;
 
 }
 
